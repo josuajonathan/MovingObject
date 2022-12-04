@@ -1,0 +1,2 @@
+D:\Github\MovingObject1\Server\obj\Debug\BasicAsyncServer.exe
+D:\Github\MovingObject1\Server\obj\Debug\BasicAsyncServer.pdb
