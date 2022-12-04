@@ -1,0 +1,11 @@
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe.config
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\bin\Debug\BasicAsyncServer.exe
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\bin\Debug\BasicAsyncServer.pdb
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.AssemblyReference.cache
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.Properties.Resources.resources
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.ServerForm.resources
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.GenerateResource.cache
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.exe
+C:\Users\Aldo\Source\Repos\NetworkProgramming\BasicAsyncServer\obj\Debug\BasicAsyncServer.pdb
